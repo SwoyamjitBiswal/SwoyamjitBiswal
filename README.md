@@ -2,21 +2,22 @@
 <img src="https://i.ibb.co/ZxvPp1h/github-banner.gif" width="100%" alt="Welcome Banner" />
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#007bff;">Swoyamjit Biswal</span></h1>
-<h3 align="center">🚀 Passionate CSE Student | 💻 Developer | 🎨 Designer | 🌐 Tech Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🎨 UI/UX Enthusiast | 💡 Innovator in the Making</h3>
 
 ---
 
 ### 🌟 About Me
-I’m **Swoyamjit Biswal**, a **Computer Science & Engineering** student with a deep love for technology, UI/UX design, and full-stack development.  
-I’m always exploring new tech, building creative projects, and learning how to turn **ideas into impactful digital experiences**.
 
-💡 *“Code is like art — logic wrapped in creativity.”*
+I’m **Swoyamjit Biswal**, a **Computer Science & Engineering** student fueled by a passion for creating digital experiences that blend **design, innovation, and functionality**.  
+From designing pixel-perfect interfaces to developing scalable systems, I love transforming **ideas into impactful tech solutions**.
 
-- 🎓 Currently pursuing **B.Tech in CSE**  
-- 💻 Working on **ShopEase – an advanced e-commerce Android app**  
-- 🌱 Currently exploring **AI-powered UI, Flutter, and Cloud Computing**  
-- 💬 Ask me about **Android Development, Kotlin, Java, UI/UX, or Web Tech**  
-- ⚡ Fun Fact: I design and code my own portfolio themes just for fun 😄
+💬 *“Every line of code tells a story — make it worth reading.”*
+
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering**  
+- 🛍️ Building **ShopEase** – an intelligent e-commerce Android app with sleek UI and smart recommendations  
+- 🌱 Exploring **AI-integrated UI, Flutter development, and Cloud Computing**  
+- 🧠 Always learning and experimenting with **cutting-edge technologies**  
+- ⚡ Fun Fact: I custom-design and develop my own UI themes for fun 😄  
 
 ---
 
@@ -32,34 +33,36 @@ I’m always exploring new tech, building creative projects, and learning how to
 #### 🧩 Frameworks & Tools
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Used |
-|----------|--------------|-----------|
-| 🛍️ **ShopEase App** | A next-gen Android e-commerce app with stunning UI/UX and smart recommendations | Kotlin, Firebase, Material UI |
-| 🏥 **Patient Care and Clinical Resource Management System** | A digital healthcare system to streamline patient management, doctor scheduling, and medical resource tracking with secure database integration. | Java, MySQL, JSP, HTML, CSS |
-| 💬 **Chat App** | Real-time chat with authentication and cloud sync | Node.js, Socket.io, Firebase |
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| 🛍️ **ShopEase App** | A next-gen e-commerce Android app with dynamic UI, AI-based recommendations, and Firebase integration. | Kotlin • Firebase • Material UI |
+| 🏥 **Patient Care & Clinical Resource Management System** | A complete healthcare platform for patient data management, doctor scheduling, and secure database access. | Java • MySQL • JSP • HTML • CSS |
+| 💬 **Real-Time Chat App** | A cross-platform chat app featuring real-time messaging, authentication, and cloud synchronization. | Node.js • Socket.io • Firebase |
 
-🔗 [**View All Projects →**](https://github.com/SwoyamjitBiswal?tab=repositories)
+🔗 [**Explore All Projects →**](https://github.com/SwoyamjitBiswal?tab=repositories)
 
 ---
 
-### 🏆 GitHub Stats & Activity
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwoyamjitBiswal&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SwoyamjitBiswal&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SwoyamjitBiswal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SwoyamjitBiswal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwoyamjitBiswal&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwoyamjitBiswal&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
@@ -85,8 +88,8 @@ I’m always exploring new tech, building creative projects, and learning how to
 
 ### 🖌️ Aesthetic Touch
 
-> “Turning creativity into code, and ideas into experience.”  
-> 🌈 *Let’s build something amazing together.*
+> *“I design, I develop, I innovate — because technology is my canvas.”*  
+> ✨ *Let’s collaborate and build something extraordinary.*
 
 <p align="center">
   <img src="https://i.ibb.co/xzvFtfB/coding.gif" width="400" alt="Coding Animation">
@@ -94,4 +97,4 @@ I’m always exploring new tech, building creative projects, and learning how to
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+⭐ *If my projects inspire you, drop a ⭐ on the repositories — it keeps the creativity flowing!*
