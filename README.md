@@ -1,10 +1,11 @@
 <!-- 🌌 Professional Banner -->
 <p align="center">
-  <!-- Replace the below image link with your own custom banner once ready -->
-  <img src="https://i.ibb.co/tKkKMvZ/Professional-Dev-Banner.png" width="100%" alt="Swoyamjit Biswal | Full Stack Developer Banner">
+  <!-- 🖼️ Replace this URL with your actual uploaded image link -->
+  <!-- Example: https://raw.githubusercontent.com/SwoyamjitBiswal/SwoyamjitBiswal/main/banner.png -->
+  <img src="https://raw.githubusercontent.com/SwoyamjitBiswal/SwoyamjitBiswal/main/banner.png" width="100%" alt="Swoyamjit Biswal | Full Stack Developer Banner">
 </p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#007bff;">Swoyamjit Biswal</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#007bff;">Swoyamjit Biswal</span></h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 UI/UX Enthusiast | 🚀 Innovator | 🌐 Tech Explorer</h3>
 
 ---
@@ -15,8 +16,8 @@
   <img src="https://i.ibb.co/xzvFtfB/coding.gif" width="300" alt="Coding Animation">
 </p>
 
-I’m **Swoyamjit Biswal**, a **Computer Science & Engineering student** passionate about crafting meaningful digital experiences.  
-I love designing intuitive interfaces, developing scalable systems, and exploring technologies that make life simpler and smarter.  
+I’m **Swoyamjit Biswal**, a **Computer Science & Engineering student** passionate about designing seamless interfaces and building scalable applications.  
+I focus on merging **creativity with clean code** to craft digital solutions that inspire and perform.
 
 💡 *“Turning ideas into innovation — one line of code at a time.”*
 
@@ -38,10 +39,10 @@ I love designing intuitive interfaces, developing scalable systems, and explorin
 
 | 🧠 Project | 💡 Description | 🧰 Tech Stack |
 |------------|----------------|---------------|
-| 🛍️ **ShopEase App** | A next-gen Android e-commerce app with AI-driven recommendations and modern UI. | Kotlin • Firebase • Material Design |
-| 🏥 **Patient Care & Clinical Resource Management System** | Web-based healthcare solution for efficient data and scheduling management. | Java • JSP • MySQL • HTML • CSS |
-| 💬 **Real-Time Chat App** | Chat application with live messaging and secure authentication. | Node.js • Socket.io • Firebase |
-| 📚 **EduConnect** | Smart learning system featuring student dashboards and analytics. | React • Spring Boot • MySQL |
+| 🛍️ **ShopEase App** | Modern Android e-commerce app with smart recommendations and sleek UI. | Kotlin • Firebase • Material Design |
+| 🏥 **Patient Care & Clinical Resource Management System** | Web-based healthcare solution for efficient patient and resource management. | Java • JSP • MySQL • HTML • CSS |
+| 💬 **Real-Time Chat App** | Cross-platform chat application featuring live messaging and authentication. | Node.js • Socket.io • Firebase |
+| 📚 **EduConnect** | Smart learning system integrating dashboards, analytics, and attendance tracking. | React • Spring Boot • MySQL |
 
 🔗 [**Explore All Projects →**](https://github.com/SwoyamjitBiswal?tab=repositories)
 
