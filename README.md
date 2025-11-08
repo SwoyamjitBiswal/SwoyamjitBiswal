@@ -1,89 +1,47 @@
-<!-- Banner -->
-<img src="https://i.ibb.co/ZxvPp1h/github-banner.gif" width="100%" alt="Welcome Banner" />
+<!-- 🌌 Professional Banner -->
+<p align="center">
+  <!-- Replace the below image link with your own custom banner once ready -->
+  <img src="https://i.ibb.co/tKkKMvZ/Professional-Dev-Banner.png" width="100%" alt="Swoyamjit Biswal | Full Stack Developer Banner">
+</p>
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#007bff;">Swoyamjit Biswal</span></h1>
-<h3 align="center">💻 Full-Stack Developer | 🎨 UI/UX Enthusiast | 🚀 Problem Solver | 🌐 Tech Explorer</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#007bff;">Swoyamjit Biswal</span></h1>
+<h3 align="center">💻 Full-Stack Developer | 🎨 UI/UX Enthusiast | 🚀 Innovator | 🌐 Tech Explorer</h3>
 
 ---
 
 ### 🌟 About Me
 
-I’m **Swoyamjit Biswal**, a **Computer Science & Engineering student** driven by curiosity, creativity, and a relentless passion for technology.  
-I specialize in **full-stack development, mobile app engineering, and UI/UX design**, crafting products that merge functionality with aesthetics.
+<p align="center">
+  <img src="https://i.ibb.co/xzvFtfB/coding.gif" width="300" alt="Coding Animation">
+</p>
 
-My journey in tech is guided by the belief that **great code is more than logic — it’s craftsmanship**.  
-Whether I’m developing scalable systems, designing intuitive interfaces, or exploring AI-driven experiences, I focus on building solutions that make a real impact.
+I’m **Swoyamjit Biswal**, a **Computer Science & Engineering student** passionate about crafting meaningful digital experiences.  
+I love designing intuitive interfaces, developing scalable systems, and exploring technologies that make life simpler and smarter.  
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering**  
-- 💼 Experienced in **Android Development, Web Technologies, and Database Management**  
-- 🧠 Currently exploring **AI-driven UI/UX, Cloud Computing, and Cross-Platform App Development**  
-- 🛠️ Skilled in **Kotlin, Java, Python, React, Node.js, and MySQL**  
-- 🎯 Goal: To become a **versatile software engineer** capable of building products that innovate, inspire, and scale globally.  
-- ⚡ Fun Fact: I treat every UI like a story — every pixel has purpose.  
-
-💡 *“Technology should not just work — it should feel human.”*
+💡 *“Turning ideas into innovation — one line of code at a time.”*
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 💻 Programming Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-#### 🧩 Frameworks & Libraries
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
----
-
-#### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-
----
-
-#### 🧰 Developer Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,c,js,ts,html,css,react,nodejs,express,spring,androidstudio,mysql,mongodb,firebase,aws,gcp,git,github,figma,postman,docker,vscode,linux&perline=10" alt="Tech Stack Icons" />
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| 🛍️ **ShopEase App** | A next-gen Android e-commerce app with intelligent recommendations, cart optimization, and stunning UI/UX. | Kotlin • Firebase • Material Design |
-| 🏥 **Patient Care & Clinical Resource Management System** | A healthcare web solution managing patient data, doctor scheduling, and resource allocation securely. | Java • JSP • MySQL • HTML • CSS |
-| 💬 **Real-Time Chat App** | A responsive chat platform with authentication and live messaging support. | Node.js • Socket.io • Firebase |
-| 📚 **EduConnect** | A smart online learning system integrating student dashboards and attendance analytics. | React • Spring Boot • MySQL |
+<p align="center">
+  <img src="https://i.ibb.co/QJmD9Bz/projects-banner.gif" width="800" alt="Projects Banner">
+</p>
+
+| 🧠 Project | 💡 Description | 🧰 Tech Stack |
+|------------|----------------|---------------|
+| 🛍️ **ShopEase App** | A next-gen Android e-commerce app with AI-driven recommendations and modern UI. | Kotlin • Firebase • Material Design |
+| 🏥 **Patient Care & Clinical Resource Management System** | Web-based healthcare solution for efficient data and scheduling management. | Java • JSP • MySQL • HTML • CSS |
+| 💬 **Real-Time Chat App** | Chat application with live messaging and secure authentication. | Node.js • Socket.io • Firebase |
+| 📚 **EduConnect** | Smart learning system featuring student dashboards and analytics. | React • Spring Boot • MySQL |
 
 🔗 [**Explore All Projects →**](https://github.com/SwoyamjitBiswal?tab=repositories)
 
@@ -92,8 +50,8 @@ Whether I’m developing scalable systems, designing intuitive interfaces, or ex
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwoyamjitBiswal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SwoyamjitBiswal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SwoyamjitBiswal&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SwoyamjitBiswal&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 <p align="center">
@@ -106,16 +64,19 @@ Whether I’m developing scalable systems, designing intuitive interfaces, or ex
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swoyamjitbiswal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/SwoyamjitBiswal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:swoyamjitbiswal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/swoyamjitbiswal" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" alt="Twitter"/>
   </a>
 </p>
 
@@ -123,13 +84,13 @@ Whether I’m developing scalable systems, designing intuitive interfaces, or ex
 
 ### 🖌️ Developer’s Philosophy
 
-> *“I design. I develop. I deliver — bridging imagination and innovation.”*  
+> *“Design beautifully. Code efficiently. Build meaningfully.”*  
 > 🌈 *Let’s create technology that inspires and empowers.*
 
 <p align="center">
-  <img src="https://i.ibb.co/xzvFtfB/coding.gif" width="400" alt="Coding Animation">
+  <img src="https://i.ibb.co/z2nH3j2/developer-illustration.gif" width="450" alt="Developer Illustration">
 </p>
 
 ---
 
-⭐ *If my projects inspire you, consider giving them a ⭐ — every star fuels innovation!*
+⭐ *If my projects inspire you, consider giving them a ⭐ — it keeps innovation alive!*
